@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Keita ATTICOT", email = "keita.atticot@ledger.fr"},
+]
+dependencies = [
+    "langchain>=0.0.314",
+    "PyGithub>=2.1.1",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
